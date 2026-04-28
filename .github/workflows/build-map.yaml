@@ -34,14 +34,14 @@ jobs:
           python malama_kula_mapping.py \
             --csv-url "${{ secrets.PROPERTIES_CSV_URL }}" \
             --parcels Maui_Parcels.geojson \
-            --output-dir public
+            --output-dir docs
           
-          cp public/malama_kula_interactive_map.html public/index.html
+          cp docs/malama_kula_interactive_map.html docs/index.html
 
       - name: Commit updated map
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add public/
+          git add docs/
           git commit -m "Update property map" || echo "No changes to commit"
           git push
