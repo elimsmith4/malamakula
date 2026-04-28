@@ -3,7 +3,7 @@ name: Build property map
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *" # daily at 12:00 UTC = 2:00 AM Hawaii
+    - cron: "0 12 * * *"
 
 permissions:
   contents: write
@@ -23,6 +23,11 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Download Maui parcels GeoJSON
+        run: |
+          curl -L "https://drive.google.com/uc?export=download&id=1aXxueW2UniMAPRBrMlK7aIeDss3O6LqJ" -o Maui_Parcels.geojson
+          ls -lh Maui_Parcels.geojson
 
       - name: Build map
         run: |
