@@ -35,6 +35,8 @@ jobs:
             --csv-url "${{ secrets.PROPERTIES_CSV_URL }}" \
             --parcels Maui_Parcels.geojson \
             --output-dir public
+          
+          cp public/malama_kula_interactive_map.html public/index.html
 
       - name: Commit updated map
         run: |
