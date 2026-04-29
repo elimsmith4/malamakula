@@ -75,6 +75,7 @@ SERVICE_COLUMNS = [
 # Kula, Maui fallback center (upcountry reference point)
 KULA_CENTER = (20.7918, -156.3277)
 
+GEOCODE_CACHE = "geocode_cache.csv"
 
 # ---------------------------------------------------------------------------
 # Logging
@@ -225,15 +226,42 @@ def match_by_parcel_id(
     return gdf, matched_indices
 
 
+def normalize_address_for_cache(address: str) -> str:
+    """Normalize address text so small formatting differences don't create duplicate cache entries."""
+    return str(address).strip().lower()
+
+
 def geocode_addresses(
     addresses_df: pd.DataFrame,
     checkpoint_every: int = 20,
+    cache_path: str = GEOCODE_CACHE,
 ) -> pd.DataFrame:
     """
-    Geocode every row with a non-null Address column. Adds latitude, longitude,
-    geocode_status, formatted_address to the returned DataFrame.
+    Geocode rows with non-null Address values, using geocode_cache.csv
+    so previously geocoded addresses are reused on future runs.
     """
     geolocator = ArcGIS(timeout=10)
+
+    cache_file = Path(cache_path)
+
+    if cache_file.exists():
+        cache_df = pd.read_csv(cache_file)
+        if "address_key" not in cache_df.columns:
+            cache_df["address_key"] = cache_df["Address"].apply(normalize_address_for_cache)
+    else:
+        cache_df = pd.DataFrame(columns=[
+            "address_key",
+            "Address",
+            "latitude",
+            "longitude",
+            "formatted_address",
+            "geocode_status",
+        ])
+
+    cache_lookup = {
+        row["address_key"]: row.to_dict()
+        for _, row in cache_df.iterrows()
+    }
 
     def geocode_one(address: str, max_retries: int = 3) -> dict:
         full = f"{address}, Maui, Hawaii, USA"
@@ -248,51 +276,91 @@ def geocode_addresses(
                         "geocode_status": "success",
                     }
                 return {
-                    "latitude": None, "longitude": None,
-                    "formatted_address": None, "geocode_status": "not_found",
+                    "latitude": None,
+                    "longitude": None,
+                    "formatted_address": None,
+                    "geocode_status": "not_found",
                 }
             except (GeocoderTimedOut, GeocoderUnavailable):
                 if attempt < max_retries - 1:
                     time.sleep(2 ** attempt)
                     continue
                 return {
-                    "latitude": None, "longitude": None,
-                    "formatted_address": None, "geocode_status": "timeout",
+                    "latitude": None,
+                    "longitude": None,
+                    "formatted_address": None,
+                    "geocode_status": "timeout",
                 }
-            except Exception as exc:  # noqa: BLE001
+            except Exception as exc:
                 return {
-                    "latitude": None, "longitude": None,
+                    "latitude": None,
+                    "longitude": None,
                     "formatted_address": None,
                     "geocode_status": f"error: {exc}",
                 }
+
         return {
-            "latitude": None, "longitude": None,
-            "formatted_address": None, "geocode_status": "failed",
+            "latitude": None,
+            "longitude": None,
+            "formatted_address": None,
+            "geocode_status": "failed",
         }
 
     out = addresses_df.copy()
     results = []
+    new_cache_rows = []
     total = len(out)
-    log.info("Geocoding %d addresses via ArcGIS…", total)
+
+    log.info("Geocoding %d addresses via ArcGIS with cache…", total)
 
     for i, (_, row) in enumerate(out.iterrows(), start=1):
-        res = geocode_one(row["Address"])
+        address = row["Address"]
+        address_key = normalize_address_for_cache(address)
+
+        if address_key in cache_lookup:
+            cached = cache_lookup[address_key]
+            res = {
+                "latitude": cached.get("latitude"),
+                "longitude": cached.get("longitude"),
+                "formatted_address": cached.get("formatted_address"),
+                "geocode_status": cached.get("geocode_status"),
+            }
+            log.debug("  [%3d/%d] CACHE %-40s", i, total, str(address)[:40])
+        else:
+            res = geocode_one(address)
+            new_cache_rows.append({
+                "address_key": address_key,
+                "Address": address,
+                **res,
+            })
+            log.debug("  [%3d/%d] NEW   %-40s %s", i, total, str(address)[:40], res["geocode_status"])
+            time.sleep(0.1)
+
         results.append(res)
-        status = res["geocode_status"]
-        marker = "OK " if status == "success" else "??" if status == "not_found" else "!!"
-        log.debug("  [%3d/%d] %s %-40s %s", i, total, marker, row["Address"][:40], status)
+
         if i % checkpoint_every == 0:
-            succ = sum(1 for r in results if r["geocode_status"] == "success")
-            log.info("  progress: %d/%d (%d successful so far)", i, total, succ)
-        # polite pause
-        time.sleep(0.1)
+            cached_count = total - len(new_cache_rows)
+            log.info("  progress: %d/%d | %d new geocodes so far", i, total, len(new_cache_rows))
 
     res_df = pd.DataFrame(results, index=out.index)
     out = pd.concat([out, res_df], axis=1)
 
+    if new_cache_rows:
+        new_cache_df = pd.DataFrame(new_cache_rows)
+        cache_df = pd.concat([cache_df, new_cache_df], ignore_index=True)
+        cache_df = cache_df.drop_duplicates(subset=["address_key"], keep="last")
+        cache_df.to_csv(cache_file, index=False)
+        log.info("  Added %d new address(es) to %s", len(new_cache_rows), cache_path)
+    else:
+        log.info("  No new addresses to add to geocode cache")
+
     successes = (out["geocode_status"] == "success").sum()
-    log.info("  Geocoded %d/%d successfully (%.1f%%)",
-             successes, total, 100 * successes / total if total else 0)
+    log.info(
+        "  Geocoded/reused %d/%d successfully (%.1f%%)",
+        successes,
+        total,
+        100 * successes / total if total else 0,
+    )
     return out
 
 
