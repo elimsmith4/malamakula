@@ -120,83 +120,92 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 1267 Naalae Rd,,4.01,,,,,,,x,,,,20.757491942848,-156.345848467362,"1267 Naalae Rd, Kula, Hawaii, 96790",success
 510 Lower Kimo Dr,,2.12,,,x,,x,,,,,,20.783461174361,-156.319545049369,"510 Lower Kimo Dr, Kula, Hawaii, 96790",success
 481 Pulehuiki Rd,,2.62,,,,,,x,,,,,20.772031946467,-156.317522244676,"481 Pulehuiki Rd, Kula, Hawaii, 96790",success
-113 Waimele Pl,,,,,x,x,x,,,,,,20.790799865867,-156.323366359027,"113 Waimele Pl, Kula, Hawaii, 96790",success
-319 Kepa Rd,,,,,x,,x,x,,,,x,20.748321470222,-156.320678198859,"319 Kepa Rd, Kula, Hawaii, 96790",success
-373 Naalae Rd,,,,,x,,x,x,,,,,20.752825695441,-156.33467187003,"373 Naalae Rd, Kula, Hawaii, 96790",success
-1119 Naalae Rd,,,,,x,,x,x,,,,,20.75652131846,-156.343299027692,"1119 Naalae Rd, Kula, Hawaii, 96790",success
-454 Waiakoa Rd,,,,,x,,x,x,,,,,20.741138640205,-156.314695196373,"454 Waiakoa Rd, Kula, Hawaii, 96790",success
-890 Waipoli Rd,,,,,,,,x,,,,,20.733229937373,-156.322383664699,"890 Waipoli Rd, Kula, Hawaii, 96790",success
-121 Lower Kimo Dr,,,,,x,,x,,,,,,20.7877342686,-156.322753390448,"121 Lower Kimo Dr, Kula, Hawaii, 96790",success
-51 Calasa Rd,,,,,x,,x,,,,,,20.756730572673,-156.329433264364,"51 Calasa Rd, Kula, Hawaii, 96790",success
-18 Poohina Rd,,,,,x,,x,,,,,,20.802115092458,-156.324012667626,"18 Poohina Rd, Kula, Hawaii, 96790",success
-220 Kekaulkike Hwy,,,,,x,x,x,,,,,,20.739576001996,-156.329754961808,"220 Kekaulike Ave, Kula, Hawaii, 96790",success
-9 Palena Pl,,,,,x,,,,,,,,20.769524542042,-156.305534195297,"9 Palena Pl, Kula, Hawaii, 96790",success
-201 Naele Rd,,,,,x,,x,,,,,,20.789468610096,-156.328748462875,"201 Naele Rd, Kula, Hawaii, 96790",success
-54 Keanuhea St,,,,,x,,x,,,,,,20.726250787604,-156.350659763604,"54 Keanuhea St, Kula, Hawaii, 96790",success
-427 Lauie Dr,,,,,x,,x,x,,,,,20.72688047808,-156.351405836805,"427 Lauie Dr, Kula, Hawaii, 96790",success
-420 Lauie Dr,,,,,x,,x,,,,,,20.727427732538,-156.351332327515,"420 Lauie Dr, Kula, Hawaii, 96790",success
-1375 Lower Kimo Dr,,,,,x,,x,,,,,,20.781039391077,-156.310460072155,"1375 Lower Kimo Dr, Kula, Hawaii, 96790",success
+113 Waimele Pl,,0.5,,,x,x,x,,,,,,20.790799865867,-156.323366359027,"113 Waimele Pl, Kula, Hawaii, 96790",success
+319 Kepa Rd,,8.63,,,x,,x,x,,,,x,20.748321470222,-156.320678198859,"319 Kepa Rd, Kula, Hawaii, 96790",success
+373 Naalae Rd,,1.06,,,x,,x,x,,,,,20.752825695441,-156.33467187003,"373 Naalae Rd, Kula, Hawaii, 96790",success
+1119 Naalae Rd,,2.36,,,x,,x,x,,,,,20.75652131846,-156.343299027692,"1119 Naalae Rd, Kula, Hawaii, 96790",success
+454 Waiakoa Rd,,7.04,,,x,,x,x,,,,,20.741138640205,-156.314695196373,"454 Waiakoa Rd, Kula, Hawaii, 96790",success
+890 Waipoli Rd,,24.47,,,,,,x,,,,,20.733229937373,-156.322383664699,"890 Waipoli Rd, Kula, Hawaii, 96790",success
+121 Lower Kimo Dr,,1.22,,,x,,x,,,,,,20.7877342686,-156.322753390448,"121 Lower Kimo Dr, Kula, Hawaii, 96790",success
+51 Calasa Rd,,6.0,,,x,,x,,,,,,20.756730572673,-156.329433264364,"51 Calasa Rd, Kula, Hawaii, 96790",success
+18 Poohina Rd,,2.33,,,x,,x,,,,,,20.802115092458,-156.324012667626,"18 Poohina Rd, Kula, Hawaii, 96790",success
+220 Kekaulkike Hwy,,2.59,,,x,x,x,,,,,,20.739576001996,-156.329754961808,"220 Kekaulike Ave, Kula, Hawaii, 96790",success
+9 Palena Pl,,0.5,,,x,,,,,,,,20.769524542042,-156.305534195297,"9 Palena Pl, Kula, Hawaii, 96790",success
+201 Naele Rd,,11.54,,,x,,x,,,,,,20.789468610096,-156.328748462875,"201 Naele Rd, Kula, Hawaii, 96790",success
+54 Keanuhea St,,2.0,,,x,,x,,,,,,20.726250787604,-156.350659763604,"54 Keanuhea St, Kula, Hawaii, 96790",success
+427 Lauie Dr,,0.99,,,x,,x,x,,,,,20.72688047808,-156.351405836805,"427 Lauie Dr, Kula, Hawaii, 96790",success
+420 Lauie Dr,,0.86,,,x,,x,,,,,,20.727427732538,-156.351332327515,"420 Lauie Dr, Kula, Hawaii, 96790",success
+1375 Lower Kimo Dr,,0.51,,,x,,x,,,,,,20.781039391077,-156.310460072155,"1375 Lower Kimo Dr, Kula, Hawaii, 96790",success
 15277 Haleakala Hwy,,0.65,,,x,,x,,,,,,20.776474438969,-156.30651219576,"15277 Haleakala Hwy, Kula, Hawaii, 96790",success
-248 Ihe Pl,,,,,x,,x,,,,,,20.755334357151,-156.31122575901,"248 Ihe Pl, Kula, Hawaii, 96790",success
-4243 Lower Kula Rd,,,,,x,,,,,,,,20.764620332403,-156.325370639714,"4243 Lower Kula Rd, Kula, Hawaii, 96790",success
-5355 Lower Kula Rd,,,,,x,,x,,,,,,20.748695345013,-156.328879639659,"5355 Lower Kula Rd, Kula, Hawaii, 96790",success
-2277 Kekaulike Ave,,,,,x,,x,,,,,,20.756048579121,-156.307895209784,"2277 Kekaulike Ave, Kula, Hawaii, 96790",success
+248 Ihe Pl,,3.33,,,x,,x,,,,,,20.755334357151,-156.31122575901,"248 Ihe Pl, Kula, Hawaii, 96790",success
+4243 Lower Kula Rd,,1.36,,,x,,,,,,,,20.764620332403,-156.325370639714,"4243 Lower Kula Rd, Kula, Hawaii, 96790",success
+5355 Lower Kula Rd,,2.0,,,x,,x,,,,,,20.748695345013,-156.328879639659,"5355 Lower Kula Rd, Kula, Hawaii, 96790",success
+2277 Kekaulike Ave,,5.13,,,x,,x,,,,,,20.756048579121,-156.307895209784,"2277 Kekaulike Ave, Kula, Hawaii, 96790",success
 104 Ioio Pl,,3.76,,,x,,x,,,,,,20.7551015917,-156.309096587966,"104 Ioio Pl, Kula, Hawaii, 96790",success
-4160 Lower Kula Rd,,,,,x,,x,,,,,,20.765484799987,-156.32621067405,"4160 Lower Kula Rd, Kula, Hawaii, 96790",success
-620 Polipoli Rd,,,,,x,x,,,,,,,20.721687972882,-156.340702062631,"620 Polipoli Rd, Kula, Hawaii, 96790",success
-399 Omaopio Rd,,,,,x,,x,,,,,,20.797930937632,-156.331923695436,"399 Omaopio Rd, Kula, Hawaii, 96790",success
-71 Kai Nana Pl,,,,,x,,x,,,,,,20.761558255535,-156.328494155932,"71 Kai Nana Pl, Kula, Hawaii, 96790",success
-63 Kai Nana Pl,,,,,x,,x,,,,,,20.761368573066,-156.328488372419,"63 Kai Nana Pl, Kula, Hawaii, 96790",success
-515 Alae Rd,,,,,x,,x,,,,,,20.740553164268,-156.315856257601,"515 Alae Rd, Kula, Hawaii, 96790",success
-259 Alae Rd,,,,,x,x,x,,,,,,20.742879016671,-156.318863349184,"259 Alae Rd, Kula, Hawaii, 96790",success
+4140 Lower Kula Rd,,1.69,,,x,,x,,,,,,20.765533582664,-156.326178738999,"4140 Lower Kula Rd, Kula, Hawaii, 96790",success
+620 Polipoli Rd,,4.77,,,x,x,,,,,,,20.721687972882,-156.340702062631,"620 Polipoli Rd, Kula, Hawaii, 96790",success
+399 Omaopio Rd,,3.05,,,x,,x,,,,,,20.797930937632,-156.331923695436,"399 Omaopio Rd, Kula, Hawaii, 96790",success
+71 Kai Nana Pl,,0.5,,,x,,x,,,,,,20.761558255535,-156.328494155932,"71 Kai Nana Pl, Kula, Hawaii, 96790",success
+63 Kai Nana Pl,,0.5,,,x,,x,,,,,,20.761368573066,-156.328488372419,"63 Kai Nana Pl, Kula, Hawaii, 96790",success
+515 Alae Rd,,2.77,,,x,,x,,,,,,20.740553164268,-156.315856257601,"515 Alae Rd, Kula, Hawaii, 96790",success
+259 Alae Rd,,0.63,,x,x,x,x,,,,,,20.742879016671,-156.318863349184,"259 Alae Rd, Kula, Hawaii, 96790",success
 90 Alae Rd,,1.3,,,x,,x,,,,,,20.74462429655,-156.321452602894,"90 Alae Rd, Kula, Hawaii, 96790",success
 990 Kekaulike Ave,,4.59,,,x,,x,,,,,,20.74507101008,-156.32130399175,"990 Kekaulike Ave, Kula, Hawaii, 96790",success
-40 Puakea Pl,,,,,x,,x,,,,,,20.757414494063,-156.326370349306,"40 Puakea Pl, Kula, Hawaii, 96790",success
-57 Wahelani St,,,,,x,,x,,,,,,20.746242590596,-156.310007868479,"57 Wahelani St, Kula, Hawaii, 96790",success
-140 Naalae,,,,,,,,x,,,,,20.750742362785,-156.331876474119,"140 Naalae Rd, Kula, Hawaii, 96790",success
-1461 Naalae Rd,,,,,,,,x,,,,,20.759784896281,-156.34770036505,"1461 Naalae Rd, Kula, Hawaii, 96790",success
-137 Maukanani Pl,,,,,,,,x,,,,,20.716126412487,-156.345315629777,"137 Maukanani Rd, Kula, Hawaii, 96790",success
-1000 Waipoli Rd,,,,,,,,x,,,,,20.73391499032,-156.320257092044,"1000 Waipoli Rd, Kula, Hawaii, 96790",success
-4660 Lower Kula Rd,,,,,,,,x,,,,,20.758401002157,-156.327908428539,"4660 Lower Kula Rd, Kula, Hawaii, 96790",success
-1886 Naalae Rd,,,,,,,,x,,,,,20.764175965807,-156.351385217324,"1886 Naalae Rd, Kula, Hawaii, 96790",success
-892 Pulehuiki Rd,,,,,,,,x,,,,,20.768289468609,-156.315471695883,"892 Pulehuiki Rd, Kula, Hawaii, 96790",success
-658 Piliwale Rd,,,,,,,,x,,,,,20.803679372558,-156.347461480809,"658 Piliwale Rd, Kula, Hawaii, 96790",success
-404 Pulehuiki Rd,,,,,,,,x,,,,,20.771793187955,-156.320097081512,"404 Pulehuiki Rd, Kula, Hawaii, 96790",success
-217 Copp Rd,,,,,,,,x,,,,,20.755591681579,-156.325755788165,"217 Copp Rd, Kula, Hawaii, 96790",success
-849 Pueo Dr,,,,,,,,x,,,,,20.735783903271,-156.360219994728,"849 Pueo Dr, Kula, Hawaii, 96790",success
-29 Kolonahe Pl,,,,,,,,x,,,,,20.77897182702,-156.336574981146,"29 Kolonahe Pl, Kula, Hawaii, 96790",success
-320 Lower Kimo Dr,,,,,x,,x,,,,,,20.784950512827,-156.322023913414,"320 Lower Kimo Dr, Kula, Hawaii, 96790",success
-130 Keanuhea St,,,,,,,,x,,,,,20.726110767911,-156.352468662128,"130 Keanuhea St, Kula, Hawaii, 96790",success
-785 Kekaulike Ave,,,,,,,,x,,,,,20.744303311568,-156.32361622356,"785 Kekaulike Ave, Kula, Hawaii, 96790",success
-4865 Lower Kula Rd,,,,,x,,x,,,,,,20.755304349938,-156.327173503268,"4865 Lower Kula Rd, Kula, Hawaii, 96790",success
-190 Malamahale Pl,,,,,x,,x,,,,,,20.719140083864,-156.342479696657,"190 Malamahale Pl, Kula, Hawaii, 96790",success
-65 Mauds Pl,,,,,x,,x,,,,,,20.733968802138,-156.333039913482,"65 Mauds Pl, Kula, Hawaii, 96790",success
-11 Wahelani St,,,,,x,,x,,,,,,20.749110660508,-156.311833869701,"11 Wahelani St, Kula, Hawaii, 96790",success
-3020 Lower Kula Rd,,,,,,,,x,,,,,20.778083010008,-156.326387029293,"3020 Lower Kula Rd, Kula, Hawaii, 96790",success
-1330 Kula Hwy,,,,,,,,x,,,,,20.818348790884,-156.327524176959,"1330 Kula Hwy, Makawao, Hawaii, 96768",success
-114 Alae Rd,,,,,,,,x,,,,,20.743615995508,-156.320681970716,"114 Alae Rd, Kula, Hawaii, 96790",success
-5231 Lower Kula Rd,,,,,x,,x,,,,,,20.750695811934,-156.326980551857,"5231 Lower Kula Rd, Kula, Hawaii, 96790",success
-106 Wahelani St,,,,,x,,x,,,,,,20.747339697903,-156.307460189009,"106 Wahelani St, Kula, Hawaii, 96790",success
-2003 Lower Kula Rd,,,,x,,,,,,,,,20.792924259227,-156.324941318633,"2003 Lower Kula Rd, Kula, Hawaii, 96790",success
-1367 Lower Kimo Dr,,,,x,,,,,,,,,20.780585678658,-156.31089685313,"1367 Lower Kimo Dr, Kula, Hawaii, 96790",success
-4020 Kula Hwy,,,,,x,,x,,,,,,20.771503509382,-156.326840657893,"4020 Kula Hwy, Kula, Hawaii, 96790",success
-221 Calasa Rd,,,,,x,,x,,,,,,20.758372713234,-156.331171335807,"221 Calasa Rd, Kula, Hawaii, 96790",success
-11 Meakoho Pl,,,,x,,,,,,,,x,20.775685827609,-156.30269281394,"11 Meakoho Pl, Kula, Hawaii, 96790",success
-10 Meakoho Pl,,,,,,,,,,,,x,20.776027264435,-156.302939912445,"10 Meakoho Pl, Kula, Hawaii, 96790",success
-475 Papipi Rd,,,,,,,,x,,,,,20.765305008164,-156.346995363174,"475 Papipi Rd, Kula, Hawaii, 96790",success
-45 Mauds Pl,,,,,x,,x,,,,,,20.734829749323,-156.332319572723,"45 Mauds Pl, Kula, Hawaii, 96790",success
-1355 Naalae Rd,,,,,,,,,,,,,20.759573965687,-156.346558917475,"1355 Naalae Rd, Kula, Hawaii, 96790",success
-694 Polipoli Rd,,,,,x,,,,,,,,20.720382742919,-156.340121532017,"694 Polipoli Rd, Kula, Hawaii, 96790",success
-18 Wahelani Rd,,,x,,x,,,,,,,,20.748868892318,-156.311876949068,"18 Wahelani St, Kula, Hawaii, 96790",success
-1365 Naalae Rd,,,,,,,,x,,,,,20.75867517421,-156.346138397393,"1365 Naalae Rd, Kula, Hawaii, 96790",success
-1445 Naalae Rd,,,x,,x,,x,,,,,,20.75965074392,-156.347239863289,"1445 Naalae Rd, Kula, Hawaii, 96790",success
-622 Naele Rd,,,,,,,x,,,,,,20.79430995546,-156.334696680463,"622 Naele Rd, Kula, Hawaii, 96790",success
-750 Holopuni Rd,,,x,,x,,x,,,,,,20.781846400714,-156.333327077484,"750 Holopuni Rd, Kula, Hawaii, 96790",success
-393 Kolohala Dr,,,,,x,,x,x,,,,,20.754804830418,-156.315768079979,"393 Kolohala Dr, Kula, Hawaii, 96790",success
-490 Pulehuiki Rd,,,,,x,,,,,,,,20.770440851697,-156.31920734249,"490 Pulehuiki Rd, Kula, Hawaii, 96790",success
-17003 Haleakala Hwy,,,,,x,,x,,,,,,20.767974979602,-156.300094172498,"17003 Haleakala Hwy, Kula, Hawaii, 96790",success
-482 Waiakoa Rd,,,,x,,,,,,,,,20.741561800587,-156.312206860777,"482 Waiakoa Rd, Kula, Hawaii, 96790",success
-18100 Piilani Hwy,,,,,x,,,,,,x,,20.616201092776,-156.368066378109,"18100 Piilani Hwy, Kula, Hawaii, 96790",success
-765 Kekaulike Ave,,,,,x,,x,x,,,,,20.745293256242,-156.325115829858,"765 Kekaulike Ave, Kula, Hawaii, 96790",success
-74 Wahelani St,,,,,x,,x,,,,,,20.745616127153,-156.308979073683,"74 Wahelani St, Kula, Hawaii, 96790",success
-7721 Kula Hwy,,,,,x,,x,x,,,,,20.721591329538,-156.341945601786,"7721 Kula Hwy, Kula, Hawaii, 96790",success
+40 Puakea Pl,,0.2,,,x,,x,,,,,,20.757414494063,-156.326370349306,"40 Puakea Pl, Kula, Hawaii, 96790",success
+57 Wahelani St,,2.04,x,,x,,x,,,,,,20.746242590596,-156.310007868479,"57 Wahelani St, Kula, Hawaii, 96790",success
+140 Naalae,,1.5,,,,,,x,,,,,20.750742362785,-156.331876474119,"140 Naalae Rd, Kula, Hawaii, 96790",success
+1461 Naalae Rd,,2.01,,,,,,x,,,,,20.759784896281,-156.34770036505,"1461 Naalae Rd, Kula, Hawaii, 96790",success
+1000 Waipoli Rd,,2.7,,,,,,x,,,,,20.73391499032,-156.320257092044,"1000 Waipoli Rd, Kula, Hawaii, 96790",success
+4660 Lower Kula Rd,,4.08,,,,,,x,,,,,20.758401002157,-156.327908428539,"4660 Lower Kula Rd, Kula, Hawaii, 96790",success
+1886 Naalae Rd,,2.0,,,,,,x,,,,,20.764175965807,-156.351385217324,"1886 Naalae Rd, Kula, Hawaii, 96790",success
+892 Pulehuiki Rd,,6.24,,,,,,x,,,,,20.768289468609,-156.315471695883,"892 Pulehuiki Rd, Kula, Hawaii, 96790",success
+658 Piliwale Rd,,2.59,,,,,,x,,,,,20.803679372558,-156.347461480809,"658 Piliwale Rd, Kula, Hawaii, 96790",success
+404 Pulehuiki Rd,,2.02,,,,,,x,,,,,20.771793187955,-156.320097081512,"404 Pulehuiki Rd, Kula, Hawaii, 96790",success
+217 Copp Rd,,0.22,,,,,,x,,,,,20.755591681579,-156.325755788165,"217 Copp Rd, Kula, Hawaii, 96790",success
+849 Pueo Dr,,0.84,,,,,,x,,,,,20.735783903271,-156.360219994728,"849 Pueo Dr, Kula, Hawaii, 96790",success
+29 Kolonahe Pl,,0.37,,,,,,x,,,,,20.77897182702,-156.336574981146,"29 Kolonahe Pl, Kula, Hawaii, 96790",success
+320 Lower Kimo Dr,,1.38,,,x,,x,,,,,,20.784950512827,-156.322023913414,"320 Lower Kimo Dr, Kula, Hawaii, 96790",success
+130 Keanuhea St,,0.63,,,,,,x,,,,,20.726110767911,-156.352468662128,"130 Keanuhea St, Kula, Hawaii, 96790",success
+785 Kekaulike Ave,,3.13,,,,,,x,,,,,20.744303311568,-156.32361622356,"785 Kekaulike Ave, Kula, Hawaii, 96790",success
+4865 Lower Kula Rd,,4.45,,,x,,x,,,,,,20.755304349938,-156.327173503268,"4865 Lower Kula Rd, Kula, Hawaii, 96790",success
+190 Malamahale Pl,,3.04,x,,x,,x,,,,,,20.719140083864,-156.342479696657,"190 Malamahale Pl, Kula, Hawaii, 96790",success
+65 Mauds Pl,,2.14,,,x,,x,,,,,,20.733968802138,-156.333039913482,"65 Mauds Pl, Kula, Hawaii, 96790",success
+1690 Kekaulike Ave,,6.23,,,x,,x,,,,,,20.74969631189,-156.311201870586,"1690 Kekaulike Ave, Kula, Hawaii, 96790",success
+3020 Lower Kula Rd,,1.64,,,,,,x,,,,,20.778083010008,-156.326387029293,"3020 Lower Kula Rd, Kula, Hawaii, 96790",success
+1330 Kula Hwy,,7.5,,,,,,x,,,,,20.818348790884,-156.327524176959,"1330 Kula Hwy, Makawao, Hawaii, 96768",success
+114 Alae Rd,,0.81,,,,,,x,,,,,20.743615995508,-156.320681970716,"114 Alae Rd, Kula, Hawaii, 96790",success
+5231 Lower Kula Rd,,10.0,,,x,,x,,,,,,20.750695811934,-156.326980551857,"5231 Lower Kula Rd, Kula, Hawaii, 96790",success
+2003 Lower Kula Rd,,0.66,,x,,,,,,,,,20.792924259227,-156.324941318633,"2003 Lower Kula Rd, Kula, Hawaii, 96790",success
+1367 Lower Kimo Dr,,0.55,,x,,,,,,,,,20.780585678658,-156.31089685313,"1367 Lower Kimo Dr, Kula, Hawaii, 96790",success
+4020 Kula Hwy,,0.85,,,x,,x,,,,,,20.771503509382,-156.326840657893,"4020 Kula Hwy, Kula, Hawaii, 96790",success
+221 Calasa Rd,,2.0,,,x,,x,,,,,,20.758372713234,-156.331171335807,"221 Calasa Rd, Kula, Hawaii, 96790",success
+11 Meakoho Pl,,0.5,,x,,,,,,,,x,20.775685827609,-156.30269281394,"11 Meakoho Pl, Kula, Hawaii, 96790",success
+10 Meakoho Pl,,0.26,,,,,,,,,,x,20.776027264435,-156.302939912445,"10 Meakoho Pl, Kula, Hawaii, 96790",success
+475 Papipi Rd,,15.85,,,,,,x,,,,,20.765305008164,-156.346995363174,"475 Papipi Rd, Kula, Hawaii, 96790",success
+45 Mauds Pl,,2.07,,,x,,x,,,,,,20.734829749323,-156.332319572723,"45 Mauds Pl, Kula, Hawaii, 96790",success
+1355 Naalae Rd,,2.0,,,,,,,,,,,20.759573965687,-156.346558917475,"1355 Naalae Rd, Kula, Hawaii, 96790",success
+694 Polipoli Rd,,1.92,,,x,x,,,,,,,20.720382742919,-156.340121532017,"694 Polipoli Rd, Kula, Hawaii, 96790",success
+1365 Naalae Rd,,2.0,,,,,,x,,,,,20.75867517421,-156.346138397393,"1365 Naalae Rd, Kula, Hawaii, 96790",success
+1445 Naalae Rd,,2.0,x,,x,,x,,,,,,20.75965074392,-156.347239863289,"1445 Naalae Rd, Kula, Hawaii, 96790",success
+622 Naele Rd,,17.44,,,,,,x,,,,,20.79430995546,-156.334696680463,"622 Naele Rd, Kula, Hawaii, 96790",success
+750 Holopuni Rd,,2.56,x,,x,,x,,,,,,20.781846400714,-156.333327077484,"750 Holopuni Rd, Kula, Hawaii, 96790",success
+393 Kolohala Dr,,0.58,,,x,,x,x,,,,,20.754804830418,-156.315768079979,"393 Kolohala Dr, Kula, Hawaii, 96790",success
+500 Pulehuiki Rd,,3.58,,,x,,,,,,,,20.770190945254,-156.318285919874,"500 Pulehuiki Rd, Kula, Hawaii, 96790",success
+17003 Haleakala Hwy,,1.95,,,x,,x,,,,,,20.767974979602,-156.300094172498,"17003 Haleakala Hwy, Kula, Hawaii, 96790",success
+482 Waiakoa Rd,,2.06,,x,,,,,,,,,20.741561800587,-156.312206860777,"482 Waiakoa Rd, Kula, Hawaii, 96790",success
+18100 Piilani Hwy,,8.0,,,x,,,,,,x,,20.616201092776,-156.368066378109,"18100 Piilani Hwy, Kula, Hawaii, 96790",success
+765 Kekaulike Ave,,3.98,,,x,,x,x,,,,,20.745293256242,-156.325115829858,"765 Kekaulike Ave, Kula, Hawaii, 96790",success
+7721 Kula Hwy,,1.28,,,x,,x,x,,,,,20.721591329538,-156.341945601786,"7721 Kula Hwy, Kula, Hawaii, 96790",success
+1002 Keanuhea St,,2.0,,,,,,x,,,,,20.708482996891,-156.362386968156,"1002 Keanuhea St, Kula, Hawaii, 96790",success
+16940 Haleakala Hwy,,1.34,,,,,,x,,,,,20.767227523386,-156.299440048774,"16940 Haleakala Hwy, Kula, Hawaii, 96790",success
+255 Lower Kimo Dr,,0.41,,,,,,x,,,,,20.786153944575,-156.321890557335,"255 Lower Kimo Dr, Kula, Hawaii, 96790",success
+300 Kolohala Dr,,0.5,,,,,,x,,,,,20.754727968366,-156.314684048442,"300 Kolohala Dr, Kula, Hawaii, 96790",success
+552 Lauie Dr,,0.98,,,,,,x,,,,,20.72921865188,-156.352971408681,"552 Lauie Dr, Kula, Hawaii, 96790",success
+247 Kamehameiki Rd,,2.93,,,,,,x,,,,,20.771488338137,-156.323472641559,"247 Kamehameiki Rd, Kula, Hawaii, 96790",success
+29 Holomakani Dr,,0.67,,,,,,x,,,,,20.753890071415,-156.322923962177,"29 Holomakani Dr, Kula, Hawaii, 96790",success
+500 Kolohala Dr,,0.5,,,,,,x,,,,,20.756069240512,-156.316981192826,"500 Kolohala Dr, Kula, Hawaii, 96790",success
+518 Kolohala Dr,,0.5,,,x,x,x,,,,,,20.756247691231,-156.317238936348,"518 Kolohala Dr, Kula, Hawaii, 96790",success
+506 Kolohala Dr,,0.5,,,x,x,x,,,,,,20.756213032061,-156.317206079288,"506 Kolohala Dr, Kula, Hawaii, 96790",success
+1000 Middle Rd,,2.37,,,x,,x,,,,,,20.711650811467,-156.342288421626,"1000 Middle Rd, Kula, Hawaii, 96790",success
+17085 Haleakala Hwy,,4.32,,,x,,x,,,,,,20.768935922891,-156.299193872278,"17085 Haleakala Hwy, Kula, Hawaii, 96790",success
+5229 Lower Kula Rd,,5.18,,,x,,x,,,,,,20.749736503116,-156.326068014058,"5229 Lower Kula Rd, Kula, Hawaii, 96790",success
