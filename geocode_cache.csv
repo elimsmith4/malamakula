@@ -216,3 +216,4 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 1000 middle rd,1000 Middle Rd,20.711650811467,-156.342288421626,"1000 Middle Rd, Kula, Hawaii, 96790",success
 17085 haleakala hwy,17085 Haleakala Hwy,20.768935922891,-156.299193872278,"17085 Haleakala Hwy, Kula, Hawaii, 96790",success
 5229 lower kula rd,5229 Lower Kula Rd,20.749736503116,-156.326068014058,"5229 Lower Kula Rd, Kula, Hawaii, 96790",success
+1401 naalae rd,1401 Naalae Rd,20.75877299102,-156.347582012577,"1401 Naalae Rd, Kula, Hawaii, 96790",success
