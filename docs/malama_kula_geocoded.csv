@@ -56,7 +56,7 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 14 Homestead Rd,,6.07,,,x,,x,x,,,,,20.750145959086,-156.310587728541,"14 Homestead Rd, Kula, Hawaii, 96790",success
 6 Nunu Pl,,0.45,x,,x,x,,x,,,x,,20.779390461174,-156.316935679092,"6 Nunu Pl, Kula, Hawaii, 96790",success
 25 Kapalulu Pl,,0.25,,,x,,,x,,,,,20.780761111891,-156.317574799209,"25 Kapalulu Pl, Kula, Hawaii, 96790",success
-1820 Kekaulike Ave,,0.87,,,x,,x,,,,,,20.752210505657,-156.310771376039,"1820 Kekaulike Ave, Kula, Hawaii, 96790",success
+1820 Kekaulike Ave,,0.87,,,x,,x,x,,,,,20.752210505657,-156.310771376039,"1820 Kekaulike Ave, Kula, Hawaii, 96790",success
 89 Wahelani St,,2.28,,,x,,,,,,,,20.747462492784,-156.309015115867,"89 Wahelani St, Kula, Hawaii, 96790",success
 90 Wahelani St,,2.05,x,,,,,,,,,,20.746775009086,-156.308653352926,"90 Wahelani St, Kula, Hawaii, 96790",success
 50 Wahelani St,,2.0,,,x,x,,,,,,,20.745634986435,-156.311086535599,"50 Wahelani St, Kula, Hawaii, 96790",success
@@ -211,3 +211,5 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 33 Wahelani St,,2.19,,,,,,x,,,,,20.747675225487,-156.309893958415,"33 Wahelani St, Kula, Hawaii, 96790",success
 82 Wahelani St,,2.01,,,x,,x,,,,,,20.746286763226,-156.309069514419,"82 Wahelani St, Kula, Hawaii, 96790",success
 40 Ululani St,,2.01,,,,,,x,,,,,20.746209859264,-156.307201104382,"40 Ululani St, Kula, Hawaii, 96790",success
+787 Lower Kimo Dr,,2.63,,,,,,x,,,,,20.78504895828,-156.315867740808,"787 Lower Kimo Dr, Kula, Hawaii, 96790",success
+63 Homestead Rd,,4.16,,,,,,,,,,,20.744292918008,-156.303460260994,"63 Homestead Rd, Kula, Hawaii, 96790",success
