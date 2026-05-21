@@ -100,7 +100,7 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 446 Cooke Rd,,6.92,,,x,,,,x,,,,20.759027423691,-156.30252224221,"446 Cooke Rd, Kula, Hawaii, 96790",success
 14 Nunu Pl,,0.44,,,x,,,,,,,,20.779090263312,-156.316867115124,"14 Nunu Pl, Kula, Hawaii, 96790",success
 52 Kulalani Circle,,0.21,,,,,,x,,,,,20.775583065476,-156.309513084735,"52 Kulalani Cir, Kula, Hawaii, 96790",success
-106 Ioio Pl,,1.38,x,,,,,,,,,,20.753843929038,-156.30922432817,"106 Ioio Pl, Kula, Hawaii, 96790",success
+106 Ioio Pl,,1.38,x,,,,,x,,,,,20.753843929038,-156.30922432817,"106 Ioio Pl, Kula, Hawaii, 96790",success
 52 Kapalulu,,0.3,x,,,x,x,x,,,,,20.781079288936,-156.318148121386,"52 Kapalulu Pl, Kula, Hawaii, 96790",success
 91 Waiakoa Rd,,0.28,x,x,,,,,,,,,20.745919216772,-156.317656271308,"91 Waiakoa Rd, Kula, Hawaii, 96790",success
 21 Kuulani,,2.1,,,x,,x,x,,,,,20.740077407444,-156.312009466957,"21 Kuulani Pl, Kula, Hawaii, 96790",success
@@ -218,3 +218,8 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 71 Lauʻie Dr,,0.5,,,,,,x,,,,,20.724351867439,-156.343864889976,"71 Lauie Dr, Kula, Hawaii, 96790",success
 102 Ioio Pl,,2.0,,,,,,x,,,,,20.754793850125,-156.30830416284,"102 Ioio Pl, Kula, Hawaii, 96790",success
 3014 Kekaulike Ave,,,,,,,,x,,,,,20.766071365572,-156.305574009337,"3014 Kekaulike Ave, Kula, Hawaii, 96790",success
+800 Kekaulike Ave,,1.5,,,x,,x,,,,,,20.74323227198,-156.321341961772,"800 Kekaulike Ave, Kula, Hawaii, 96790",success
+45 Ahinahina Pl,,2.23,,,,,,x,,,,,20.76354200056,-156.346344005478,"45 Ahinahina Pl, Kula, Hawaii, 96790",success
+300 Kulamanu Circle,,0.5,,x,,,,,,,,,20.781112271725,-156.319989709333,"300 Kulamanu Cir, Kula, Hawaii, 96790",success
+15221 Haleakala Hwy,,2.92,,,x,x,x,,,,,,20.7777945049,-156.306879742214,"15221 Haleakala Hwy, Kula, Hawaii, 96790",success
+729 Alae Rd,,2.0,,,,,,,,,,,20.737632993021,-156.313994972181,"729 Alae Rd, Kula, Hawaii, 96790",success
