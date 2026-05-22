@@ -236,3 +236,4 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 300 kulamanu circle,300 Kulamanu Circle,20.781112271725,-156.319989709333,"300 Kulamanu Cir, Kula, Hawaii, 96790",success
 15221 haleakala hwy,15221 Haleakala Hwy,20.7777945049,-156.306879742214,"15221 Haleakala Hwy, Kula, Hawaii, 96790",success
 729 alae rd,729 Alae Rd,20.737632993021,-156.313994972181,"729 Alae Rd, Kula, Hawaii, 96790",success
+102 pulehuiki rd,102 Pulehuiki Rd,20.77311036213,-156.323489992099,"102 Pulehuiki Rd, Kula, Hawaii, 96790",success
