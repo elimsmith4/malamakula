@@ -240,3 +240,6 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 25 mano dr,25 Mano Dr,20.791610018719,-156.321178766117,"25 Mano Dr, Kula, Hawaii, 96790",success
 16547 haleakala hwy,16547 Haleakala Hwy,20.769434897587,-156.301608447126,"16547 Haleakala Hwy, Kula, Hawaii, 96790",success
 215 pulehunui rd,215 Pulehunui Rd,20.780111556305,-156.322539065183,"215 Pulehunui Rd, Kula, Hawaii, 96790",success
+1555 kekaulike ave,1555 Kekaulike Ave,20.749557591392,-156.313408574235,"1555 Kekaulike Ave, Kula, Hawaii, 96790",success
+5281 lower kula rd,5281 Lower Kula Rd,20.748846135451,-156.327386738885,"5281 Lower Kula Rd, Kula, Hawaii, 96790",success
+170 naalae rd,170 Naalae Rd,20.751551981434,-156.331890000185,"170 Naalae Rd, Kula, Hawaii, 96790",success
