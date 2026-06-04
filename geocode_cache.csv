@@ -246,3 +246,6 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 391 kulalani dr,391 Kulalani Dr,20.774584194075,-156.307868136236,"391 Kulalani Dr, Kula, Hawaii, 96790",success
 808 pueo dr,808 Pueo Dr,20.735878451139,-156.358814265746,"808 Pueo Dr, Kula, Hawaii, 96790",success
 94 kawehi pl,94 Kawehi Pl,20.731542785993,-156.327751686949,"94 Kawehi Pl, Kula, Hawaii, 96790",success
+1351 pulehuiki rd,1351 Pulehuiki Rd,20.76472275926,-156.309046380366,"1351 Pulehuiki Rd, Kula, Hawaii, 96790",success
+2175 kekaulike ave,2175 Kekaulike Ave,20.754798711629,-156.307790435994,"2175 Kekaulike Ave, Kula, Hawaii, 96790",success
+171 pulehuiki rd,171 Pulehuiki Rd,20.773813939082,-156.322987664641,"171 Pulehuiki Rd, Kula, Hawaii, 96790",success
