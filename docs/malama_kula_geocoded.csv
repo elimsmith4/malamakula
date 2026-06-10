@@ -12,7 +12,7 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 712 Upper Kimo Dr,,2.34,,,,,,,,x,,,20.773733724269,-156.302415624402,"712 Upper Kimo Dr, Kula, Hawaii, 96790",success
 624 Upper Kimo Dr,,9.42,x,,x,x,x,x,,,,,20.773308971326,-156.305305704617,"624 Upper Kimo Dr, Kula, Hawaii, 96790",success
 15427 Haleakala Hwy,,4.05,x,,x,x,x,x,x,,,,20.774895120773,-156.307137318099,"15427 Haleakala Hwy, Kula, Hawaii, 96790",success
-15465 Haleakala Hwy,,4.57,x,,x,x,x,x,x,x,x,x,20.773689300182,-156.306573551291,"15465 Haleakala Hwy, Kula, Hawaii, 96790",success
+15465 Haleakala Hwy,,4.57,,,x,x,x,x,x,x,x,x,20.773689300182,-156.306573551291,"15465 Haleakala Hwy, Kula, Hawaii, 96790",success
 16290 Haleakala Hwy,,7.91,x,,x,x,x,x,,,x,x,20.768461716719,-156.304179093011,"16290 Haleakala Hwy, Kula, Hawaii, 96790",success
 15531 Haleakala Hwy,,0.74,x,,x,x,,x,,,x,x,20.773286507825,-156.307497404659,"15531 Haleakala Hwy, Kula, Hawaii, 96790",success
 15601 Haleakala Hwy,,0.52,x,,,,,,,,,,20.772184287557,-156.307288443813,"15601 Haleakala Hwy, Kula, Hawaii, 96790",success
@@ -236,4 +236,4 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 2175 Kekaulike Ave,,,,,,,,x,,,,,20.754798711629,-156.307790435994,"2175 Kekaulike Ave, Kula, Hawaii, 96790",success
 171 Pulehuiki Rd,,,x,x,x,,,,,,,,20.773813939082,-156.322987664641,"171 Pulehuiki Rd, Kula, Hawaii, 96790",success
 1906 Naalae Rd,,,,,,,,x,,,,,20.766160297564,-156.351766342461,"1906 Naalae Rd, Kula, Hawaii, 96790",success
-675 Middle Rd,,,,,x,,x,,,,,,20.710901595052,-156.345784094346,"675 Middle Rd, Kula, Hawaii, 96790",success
+36 Ahinahina Pl,,1.11,,,,,,,,,,,20.763325202634,-156.345300961447,"36 Ahinahina Pl, Kula, Hawaii, 96790",success
