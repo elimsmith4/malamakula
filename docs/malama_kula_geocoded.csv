@@ -236,4 +236,6 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 2175 Kekaulike Ave,,,,,,,,x,,,,,20.754798711629,-156.307790435994,"2175 Kekaulike Ave, Kula, Hawaii, 96790",success
 171 Pulehuiki Rd,,,x,x,x,,,,,,,,20.773813939082,-156.322987664641,"171 Pulehuiki Rd, Kula, Hawaii, 96790",success
 1906 Naalae Rd,,,,,,,,x,,,,,20.766160297564,-156.351766342461,"1906 Naalae Rd, Kula, Hawaii, 96790",success
-36 Ahinahina Pl,,1.11,,,,,,,,,,,20.763325202634,-156.345300961447,"36 Ahinahina Pl, Kula, Hawaii, 96790",success
+36 Ahinahina Pl,,1.11,,,,,,x,,,,,20.763325202634,-156.345300961447,"36 Ahinahina Pl, Kula, Hawaii, 96790",success
+2460 Omaopio Rd,,24.35,,,,,,x,,,,,20.807744595598,-156.352731937707,"2460 Omaopio Rd, Kula, Hawaii, 96790",success
+65 Holopuni Rd,,6.07,,,,,,x,,,,,20.779068470364,-156.328029044125,"65 Holopuni Rd, Kula, Hawaii, 96790",success
