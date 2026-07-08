@@ -256,3 +256,5 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 65 holopuni rd,65 Holopuni Rd,20.779068470364,-156.328029044125,"65 Holopuni Rd, Kula, Hawaii, 96790",success
 496 kamehameiki rd,496 Kamehameiki Rd,20.76771799045,-156.319499032721,"496 Kamehameiki Rd, Kula, Hawaii, 96790",success
 12221 haleakala hwy,12221 Haleakala Hwy,20.814074231691,-156.300540005928,"12221 Haleakala Hwy, Makawao, Hawaii, 96768",success
+220 napoko pl,220 Napoko Pl,20.764608974925,-156.301723027742,"220 Napoko Pl, Kula, Hawaii, 96790",success
+341 kulalani dr,341 Kulalani Dr,20.774359307612,-156.308752929936,"341 Kulalani Dr, Kula, Hawaii, 96790",success
