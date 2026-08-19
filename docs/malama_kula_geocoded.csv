@@ -58,7 +58,7 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 25 Kapalulu Pl,,0.25,,,x,,,x,,,,,20.780761111891,-156.317574799209,"25 Kapalulu Pl, Kula, Hawaii, 96790",success
 1820 Kekaulike Ave,,0.87,,,x,,x,x,,,,,20.752210505657,-156.310771376039,"1820 Kekaulike Ave, Kula, Hawaii, 96790",success
 89 Wahelani St,,2.28,,,x,,,,,,,,20.747462492784,-156.309015115867,"89 Wahelani St, Kula, Hawaii, 96790",success
-90 Wahelani St,,2.05,x,,,,,,,,,,20.746775009086,-156.308653352926,"90 Wahelani St, Kula, Hawaii, 96790",success
+90 Wahelani St,,2.05,x,,x,,,,,,,,20.746775009086,-156.308653352926,"90 Wahelani St, Kula, Hawaii, 96790",success
 50 Wahelani St,,2.0,,,x,x,,,,,,,20.745634986435,-156.311086535599,"50 Wahelani St, Kula, Hawaii, 96790",success
 222 Waiakoa Rd,,2.0,x,,x,,x,,,,,x,20.743485866461,-156.317058976887,"222 Waiakoa Rd, Kula, Hawaii, 96790",success
 1100 Kekaulike Ave,,2.3,,,x,,x,,,,,,20.745988451292,-156.318736195713,"1100 Kekaulike Ave, Kula, Hawaii, 96790",success
@@ -245,3 +245,15 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 111 Mano Dr,,0.3,,,,,,x,,,,,20.790019049677,-156.318971224278,"111 Mano Dr, Kula, Hawaii, 96790",success
 1261 Lower Kula Rd,,0.66,x,x,,,,,,,,,20.802739258298,-156.323886204662,"1261 Lower Kula Rd, Kula, Hawaii, 96790",success
 155 Cross Rd,,0.64,x,,,,,,,,,,20.707138497712,-156.353040475563,"155 Cross Rd, Kula, Hawaii, 96790",success
+2055 Naalae Rd,,,,,,,,x,,,,,20.764134601114,-156.353931974784,"2055 Naalae Rd, Kula, Hawaii, 96790",success
+1385 Naalae Rd,,,,,,,,x,,,,,20.759201767277,-156.346860833628,"1385 Naalae Rd, Kula, Hawaii, 96790",success
+200 Hoopalua Dr,,,,,,,,x,,,,,20.801234413311,-156.353975979776,"200 Hoopalua Dr, Kula, Hawaii, 96790",success
+173 Inia Pl,,2.0,,,,,,x,,,,,20.81370031499,-156.355765935199,"173 Inia Pl, Kula, Hawaii, 96790",success
+5019 Lower Kula Rd,,,,,,,,,,,,,20.753261973501,-156.327820418555,"5019 Lower Kula Rd, Kula, Hawaii, 96790",success
+43 Ululani St,,2.05,,,x,,,,,,,,20.745845288386,-156.306131154441,"43 Ululani St, Kula, Hawaii, 96790",success
+98 Wahelani St,,2.06,,,x,,,,,,,,20.746865156454,-156.307873416835,"98 Wahelani St, Kula, Hawaii, 96790",success
+97 Wahelani St,,2.11,,,x,,,,,,,,20.747877061715,-156.308235598872,"97 Wahelani St, Kula, Hawaii, 96790",success
+1990 Omaopio Rd,,26.25,,,,,,x,,,,,20.809925399167,-156.347089324308,"1990 Omaopio Rd, Kula, Hawaii, 96790",success
+62 Ululani St,,2.02,x,,x,,,,,,,,20.745065058928,-156.307826897273,"62 Ululani St, Kula, Hawaii, 96790",success
+13306 Kula Hwy,,,,,x,,,,,,,,20.667768321311,-156.398752357996,"13306 Kula Hwy, Kula, Hawaii, 96790",success
+234 Naalae Rd,,,,,,,,x,,,,,20.755766150894,-156.341787267635,"234 Naalae Rd, Kula, Hawaii, 96790",success
