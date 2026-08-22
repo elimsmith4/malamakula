@@ -186,7 +186,7 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 1445 Naalae Rd,,2.0,x,,x,,x,,,,,,20.75965074392,-156.347239863289,"1445 Naalae Rd, Kula, Hawaii, 96790",success
 622 Naele Rd,,17.44,,,,,,x,,,,,20.79430995546,-156.334696680463,"622 Naele Rd, Kula, Hawaii, 96790",success
 750 Holopuni Rd,,2.56,x,,x,,x,,,,,,20.781846400714,-156.333327077484,"750 Holopuni Rd, Kula, Hawaii, 96790",success
-393 Kolohala Dr,,0.58,,,x,,x,x,,,,,20.754804830418,-156.315768079979,"393 Kolohala Dr, Kula, Hawaii, 96790",success
+393 Kolohala Dr,,0.58,x,,x,,x,x,,,,,20.754804830418,-156.315768079979,"393 Kolohala Dr, Kula, Hawaii, 96790",success
 500 Pulehuiki Rd,,3.58,,,x,,x,,,,,,20.770190945254,-156.318285919874,"500 Pulehuiki Rd, Kula, Hawaii, 96790",success
 17003 Haleakala Hwy,,1.95,,,x,,x,,,,,,20.767974979602,-156.300094172498,"17003 Haleakala Hwy, Kula, Hawaii, 96790",success
 482 Waiakoa Rd,,2.06,,x,,,,,,,,,20.741561800587,-156.312206860777,"482 Waiakoa Rd, Kula, Hawaii, 96790",success
@@ -266,3 +266,9 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 223 Middle Rd,,1.15,,,x,,x,,,,,,20.707388990888,-156.351185979485,"223 Middle Rd, Kula, Hawaii, 96790",success
 1115 Kamehameiki Rd,,,,,,,,x,,,,,20.763707585057,-156.313204977807,"1115 Kamehameiki Rd, Kula, Hawaii, 96790",success
 1894 Naalae Rd,,,,,,,,x,,,,,20.76508200763,-156.3517889736,"1894 Naalae Rd, Kula, Hawaii, 96790",success
+38 Kulalani Cir,,,,x,,,,,,,,,20.775872395519,-156.309853909875,"38 Kulalani Cir, Kula, Hawaii, 96790",success
+9 Palena Pl,,0.5,x,,x,,,,,,,,20.769524542042,-156.305534195297,"9 Palena Pl, Kula, Hawaii, 96790",success
+689 Pulehuiki Rd,,0.7,,,,,,x,,,,,20.770701822252,-156.317512521668,"689 Pulehuiki Rd, Kula, Hawaii, 96790",success
+12 Omaopio Rd,,2.04,,,,,,x,,,,,20.797364488615,-156.325779425132,"12 Omaopio Rd, Kula, Hawaii, 96790",success
+47 Kahoea Pl,,0.62,,,,,,x,,,,,20.754758059399,-156.317566417306,"47 Kahoea Pl, Kula, Hawaii, 96790",success
+330 Napoko Pl,,0.67,,,,,,x,,,,,20.76547591517,-156.302601535014,"330 Napoko Pl, Kula, Hawaii, 96790",success
