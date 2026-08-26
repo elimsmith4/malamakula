@@ -183,7 +183,7 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 1355 Naalae Rd,,2.0,,,,,,,,,,,20.759573965687,-156.346558917475,"1355 Naalae Rd, Kula, Hawaii, 96790",success
 694 Polipoli Rd,,1.92,,,x,x,,,,,,,20.720382742919,-156.340121532017,"694 Polipoli Rd, Kula, Hawaii, 96790",success
 1365 Naalae Rd,,2.0,,,,,,x,,,,,20.75867517421,-156.346138397393,"1365 Naalae Rd, Kula, Hawaii, 96790",success
-1445 Naalae Rd,,2.0,x,,x,,x,,,,,,20.75965074392,-156.347239863289,"1445 Naalae Rd, Kula, Hawaii, 96790",success
+1445 Naalae Rd,,2.0,x,,x,,x,x,,,,,20.75965074392,-156.347239863289,"1445 Naalae Rd, Kula, Hawaii, 96790",success
 622 Naele Rd,,17.44,,,,,,x,,,,,20.79430995546,-156.334696680463,"622 Naele Rd, Kula, Hawaii, 96790",success
 750 Holopuni Rd,,2.56,x,,x,,x,,,,,,20.781846400714,-156.333327077484,"750 Holopuni Rd, Kula, Hawaii, 96790",success
 393 Kolohala Dr,,0.58,x,,x,,x,x,,,,,20.754804830418,-156.315768079979,"393 Kolohala Dr, Kula, Hawaii, 96790",success
@@ -272,3 +272,5 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 12 Omaopio Rd,,2.04,,,,,,x,,,,,20.797364488615,-156.325779425132,"12 Omaopio Rd, Kula, Hawaii, 96790",success
 47 Kahoea Pl,,0.62,,,,,,x,,,,,20.754758059399,-156.317566417306,"47 Kahoea Pl, Kula, Hawaii, 96790",success
 330 Napoko Pl,,0.67,,,,,,x,,,,,20.76547591517,-156.302601535014,"330 Napoko Pl, Kula, Hawaii, 96790",success
+172 Holomakani Pl,,0.56,,,x,,,,,,,,20.751268505469,-156.318554978966,"172 Holomakani Pl, Kula, Hawaii, 96790",success
+377 Ihe Pl,,0.96,,,,,,x,,,,,20.754070785248,-156.31265763953,"377 Ihe Pl, Kula, Hawaii, 96790",success

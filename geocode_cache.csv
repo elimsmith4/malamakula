@@ -290,3 +290,5 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 12 omaopio rd,12 Omaopio Rd,20.797364488615,-156.325779425132,"12 Omaopio Rd, Kula, Hawaii, 96790",success
 47 kahoea pl,47 Kahoea Pl,20.754758059399,-156.317566417306,"47 Kahoea Pl, Kula, Hawaii, 96790",success
 330 napoko pl,330 Napoko Pl,20.76547591517,-156.302601535014,"330 Napoko Pl, Kula, Hawaii, 96790",success
+172 holomakani pl,172 Holomakani Pl,20.751268505469,-156.318554978966,"172 Holomakani Pl, Kula, Hawaii, 96790",success
+377 ihe pl,377 Ihe Pl,20.754070785248,-156.31265763953,"377 Ihe Pl, Kula, Hawaii, 96790",success
