@@ -316,3 +316,5 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 75 ululani st,75 Ululani St,20.743892430674,-156.307205295333,"75 Ululani St, Kula, Hawaii, 96790",success
 801 kanaio-kalama park rd,801 Kanaio-Kalama Park Rd,20.630939412225,-156.404640309701,"801 Kanaio Kalama Park Rd, Kula, Hawaii, 96790",success
 103 ioio pl,103 Ioio Pl,20.755500486472,-156.30848328411,"103 Ioio Pl, Kula, Hawaii, 96790",success
+16004 haleakala hwy,16004 Haleakala Hwy,20.770205445946,-156.30428219042,"16004 Haleakala Hwy, Kula, Hawaii, 96790",success
+35 akea pl,35 Akea Pl,20.789806275065,-156.323362084256,"35 Akea Pl, Kula, Hawaii, 96790",success
