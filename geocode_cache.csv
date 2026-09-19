@@ -318,3 +318,6 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 103 ioio pl,103 Ioio Pl,20.755500486472,-156.30848328411,"103 Ioio Pl, Kula, Hawaii, 96790",success
 16004 haleakala hwy,16004 Haleakala Hwy,20.770205445946,-156.30428219042,"16004 Haleakala Hwy, Kula, Hawaii, 96790",success
 35 akea pl,35 Akea Pl,20.789806275065,-156.323362084256,"35 Akea Pl, Kula, Hawaii, 96790",success
+177 kulalani dr,177 Kulalani Dr,20.775456205372,-156.310180451865,"177 Kulalani Dr, Kula, Hawaii, 96790",success
+17375 haleakala hwy,17375 Haleakala Hwy,20.772084584819,-156.296674775098,"17375 Haleakala Hwy, Kula, Hawaii, 96790",success
+63 puakea pl,63 Puakea Pl,20.757952360789,-156.324786756339,"63 Puakea Pl, Kula, Hawaii, 96790",success

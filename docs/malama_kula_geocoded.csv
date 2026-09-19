@@ -158,7 +158,7 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 1886 Naalae Rd,,2.0,,,,,,x,,,,,20.764175965807,-156.351385217324,"1886 Naalae Rd, Kula, Hawaii, 96790",success
 892 Pulehuiki Rd,,6.24,,,,,,x,,,,,20.768289468609,-156.315471695883,"892 Pulehuiki Rd, Kula, Hawaii, 96790",success
 658 Piliwale Rd,,2.59,,,,,,x,,,,,20.803679372558,-156.347461480809,"658 Piliwale Rd, Kula, Hawaii, 96790",success
-404 Pulehuiki Rd,,2.02,,,,,,x,,,,,20.771793187955,-156.320097081512,"404 Pulehuiki Rd, Kula, Hawaii, 96790",success
+404 Pulehuiki Rd,,2.02,,x,,,,x,,,,,20.771793187955,-156.320097081512,"404 Pulehuiki Rd, Kula, Hawaii, 96790",success
 217 Copp Rd,,0.22,,,,,,x,,,,,20.755591681579,-156.325755788165,"217 Copp Rd, Kula, Hawaii, 96790",success
 849 Pueo Dr,,0.84,,,,,,x,,,,,20.735783903271,-156.360219994728,"849 Pueo Dr, Kula, Hawaii, 96790",success
 29 Kolonahe Pl,,0.37,,,,,,x,,,,,20.77897182702,-156.336574981146,"29 Kolonahe Pl, Kula, Hawaii, 96790",success
@@ -299,5 +299,8 @@ Address,Parcel ID,Acres,Green Waste Pickup,Kupuna Pickup,Property Cleanup,Debris
 75 Ululani St,,2.14,,,x,,,,,,,,20.743892430674,-156.307205295333,"75 Ululani St, Kula, Hawaii, 96790",success
 801 Kanaio-Kalama Park Rd,,9.2,,,x,,,,,,,,20.630939412225,-156.404640309701,"801 Kanaio Kalama Park Rd, Kula, Hawaii, 96790",success
 103 Ioio Pl,,1.98,,,x,,,,,,,,20.755500486472,-156.30848328411,"103 Ioio Pl, Kula, Hawaii, 96790",success
-16004 Haleakala Hwy,,,,,,,,x,,,,,20.770205445946,-156.30428219042,"16004 Haleakala Hwy, Kula, Hawaii, 96790",success
-35 Akea Pl,,,,,,,,x,,,,,20.789806275065,-156.323362084256,"35 Akea Pl, Kula, Hawaii, 96790",success
+16004 Haleakala Hwy,,0.57,,,,,,x,,,,,20.770205445946,-156.30428219042,"16004 Haleakala Hwy, Kula, Hawaii, 96790",success
+35 Akea Pl,,0.56,,,,,,x,,,,,20.789806275065,-156.323362084256,"35 Akea Pl, Kula, Hawaii, 96790",success
+177 Kulalani Dr,,0.32,x,,,,,,,,,,20.775456205372,-156.310180451865,"177 Kulalani Dr, Kula, Hawaii, 96790",success
+17375 Haleakala Hwy,,3.13,x,,,,,,,,,,20.772084584819,-156.296674775098,"17375 Haleakala Hwy, Kula, Hawaii, 96790",success
+63 Puakea Pl,,,,,,,,x,,,,,20.757952360789,-156.324786756339,"63 Puakea Pl, Kula, Hawaii, 96790",success
