@@ -322,3 +322,4 @@ address_key,Address,latitude,longitude,formatted_address,geocode_status
 17375 haleakala hwy,17375 Haleakala Hwy,20.772084584819,-156.296674775098,"17375 Haleakala Hwy, Kula, Hawaii, 96790",success
 63 puakea pl,63 Puakea Pl,20.757952360789,-156.324786756339,"63 Puakea Pl, Kula, Hawaii, 96790",success
 110 kamehameiki rd,110 Kamehameiki Rd,20.773334075126,-156.32523937911,"110 Kamehameiki Rd, Kula, Hawaii, 96790",success
+3050 kekaulike ave,3050 Kekaulike Ave,20.767269181445,-156.305944824734,"3050 Kekaulike Ave, Kula, Hawaii, 96790",success
